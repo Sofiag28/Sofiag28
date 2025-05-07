@@ -1,13 +1,13 @@
 ## Hi everyone! I´m Laura Garcia 👋
 
-
-<!-- I´m enjoy I do things like:
+I´m enjoy I do things like:
 Paint
 Eat
 Travel
 Learning
 Software Development
 My passion for languages
+<!-- 
 **Sofiag28/Sofiag28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
