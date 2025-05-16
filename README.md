@@ -1,12 +1,19 @@
-## Hi everyone! I´m Laura Garcia 👋
+## Hi, everyone! I’m Laura Garcia 👋
 
-I´m enjoy I do things like:
-Paint
-Eat
-Travel
-Learning
-Software Development
-My passion for languages
+### I enjoy doing things like:
+- 🎨 Painting  
+- 📚 Learning  
+- ✈️ Traveling  
+- 💻 Software Development  
+- 🌍 Languages  
+- 🧑‍🤝‍🧑 Diversity and cultures  
+
+---
+
+### 🛠️ Skills:
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
+
 <!-- 
 **Sofiag28/Sofiag28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
