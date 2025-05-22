@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Laura García</h1>
 
 <p align="center">
-  <i>A passionate developer & data enthusiast who loves learning and building solutions with purpose.</i>
+  <i>A passionate developer about technology </i>
 </p>
 
 ---
@@ -10,7 +10,7 @@
 
 ✨ I'm deeply interested in software development, data visualization, and multicultural learning.  
 💬 I enjoy painting, learning languages, and exploring diverse cultures.  
-🌱 Constantly learning and growing in the world of technology and design.  
+🌱 Constantly learning and growing in the world of technology, design and data.  
 
 ---
 
@@ -29,7 +29,7 @@
 #### 📊 Data & Visualization:
 <p>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="25"/> Power BI &nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Looker.svg/1200px-Looker.svg.png" alt="Looker Studio" width="25"/> Looker Studio &nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Looker.svg/1200px-Looker.svg.png" width="25"/> Looker Studio &nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" alt="Excel" width="25"/> Excel (advanced) &nbsp;
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase Analytics" width="25"/> Firebase Analytics
 </p>
